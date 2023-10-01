@@ -5,4 +5,3 @@ console.log("ee2");
 console.log("ee3");
 console.log("ee4");
 console.log("ee5");
-console.log("ee6");
